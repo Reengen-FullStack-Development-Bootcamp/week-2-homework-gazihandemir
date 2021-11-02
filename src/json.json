@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "img": "otel1.jpg",
+        "name": "Lara Beach Homes",
+        "price": "350",
+        "rating": "2.5",
+        "description": "Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.",
+        "location":"https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3285122.6353801126!2d32.63283667913547!3d36.478634695507864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1518e6dc413cc6a7%3A0x877546f4882af620!2sSuriye!3m2!1d34.802074999999995!2d38.996815!4m5!1s0x14c3850e59e055a7%3A0xaf9a027534b9ff32!2sLara%20Beach%20Homes%2C%20g%C3%BCzeloba%20mah%2C%202383%20sk%20no%207%2C%2007610%20Muratpa%C5%9Fa%2FAntalya!3m2!1d36.8610447!2d30.8334142!5e0!3m2!1str!2str!4v1635694704896!5m2!1str!2str"},
+    {
+        "id": 2,
+        "img": "otel2.jpg",
+        "name": "Titanic Beach Lara Resort",
+        "price": "1619",
+        "rating": "4.5",
+        "description": "Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.",
+        "location": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3285122.6353801126!2d32.63283667913547!3d36.478634695507864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x1518e6dc413cc6a7%3A0x877546f4882af620!2sSuriye!3m2!1d34.802074999999995!2d38.996815!4m5!1s0x14c382cfddba2c01%3A0x99179c025c687094!2sTitanic%20Beach%20Lara%20Resort%2C%20G%C3%BCzeloba%2C%20Lara%20Turizm%20Yolu%2C%2007230%20Muratpa%C5%9Fa%2FAntalya!3m2!1d36.8556246!2d30.861700799999998!5e0!3m2!1str!2str!4v1635694662378!5m2!1str!2str"
+    },
+    {
+        "id": 3,
+        "img": "otel1.jpg",
+        "name": "EXPOROYAL HOTEL",
+        "price": "192",
+        "rating": "5",
+        "description": "Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.",
+        "location": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3285122.635380114!2d32.60560077913546!3d36.478634695507836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x1518e6dc413cc6a7%3A0x877546f4882af620!2sSuriye!3m2!1d34.802074999999995!2d38.996815!4m5!1s0x14c38fe3692fd4c9%3A0xba1d1ba6ef03aefc!2sMuratpa%C5%9Fa%2C%20EXPOROYAL%20HOTEL%2C%20567.%20Sk.%20No%3A53%2C%2007010%20Muratpa%C5%9Fa%2FAntalya!3m2!1d36.896954799999996!2d30.6986542!5e0!3m2!1str!2str!4v1635694521648!5m2!1str!2str"
+    },
+    {
+        "id": 4,
+        "img": "otel2.jpg",
+        "name": "Antalya Adonis Otel",
+        "price": "553",
+        "rating": "4",
+        "description": "Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum perferendis maxime eveniet, excepturi facilis fuga dicta esse id adipisci aut.",
+        "location": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3284935.3901118655!2d32.614733658703635!3d36.48305130615899!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x1518e6dc413cc6a7%3A0x877546f4882af620!2sSuriye!3m2!1d34.802074999999995!2d38.996815!4m5!1s0x14c39a93bd949d4d%3A0x6ff0033a71b58268!2sAntalya%20Adonis%20Hotel!3m2!1d36.8586238!2d30.731688799999997!5e0!3m2!1str!2str!4v1635694599913!5m2!1str!2str"
+    }
+]
